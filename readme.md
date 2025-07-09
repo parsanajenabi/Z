@@ -16,3 +16,7 @@ users can also have real-time bitcoin price by sending "/price_btc" command.
 - install telegram library `pip install python-telegram-bot`
 - download the project files and enter the project folder by `git clone https://github.com/username/your-bot-repo.git
 cd your-bot-repo`
+## How to use
+first enter "/start" command to start robot.
+you can have a simple greeting by entering "/hi", "/Hello", "/bye".
+enter "/price_btc" to have real-time bitcoin price.
